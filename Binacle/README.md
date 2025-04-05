@@ -12,3 +12,9 @@
 
 <H1>Domingo 23 de marzo</H1>
 <p>Los requisitos funcionales los cuales consideramos que son correctos están terminados, solo falta subirlo al repo, empezamos a crear el documento de especificación de casos de uso que se espera que estén listos entre el martes y miercoles de esta semana junto con el material para presentar nuestros avances al personal de la clinica SEAP</p><br>
+
+<H1>Miercoles 26 de marzo</H1>
+<p>Nos reunimos a revisarnuestros avances y los casos deuso fueron terminados, solo falta subirlos a repo</p><br>
+
+<H1>Viernes 28 de marzo</H1>
+<p>Despues de algunas semanas de la ultima reunión con el personal del SEAP nos reunimos nuevamente junto con los demás equipos para mostrar nuestros hallasgos y avances, luego de eso nos reunimos solo los integrantes de los equipos para discutiracerca de la estandarización de procesos y diseños ya que diferiamos mucho entre equipos</p><br>
