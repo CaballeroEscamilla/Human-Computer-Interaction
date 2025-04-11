@@ -19,7 +19,7 @@
    8. Muestra confirmación del registro exitoso.
 
 ### Excepciones
-   - *Campos vacíos:* El sistema impide guardar y resalta los campos faltantes.  
+   - *Campos vacíos:* El sistema impide guardar si hay campos vacios.
    - *Formato inválido:* Se muestra un mensaje de error.  
    - *Error de red:* Se notifica el fallo y se sugiere reintentar.
 
