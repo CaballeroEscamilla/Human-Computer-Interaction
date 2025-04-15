@@ -1,92 +1,42 @@
-# Human-Computer-Interaction
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h2>Hoja de Cotejo - Primera Entrega</h2>
-    <table>
-        <tr>
-            <th>Aspecto</th>
-            <th>Mucho por Mejorar (1)</th>
-            <th>Mínimo (2)</th>
-            <th>Regular (3)</th>
-            <th>Bueno (4)</th>
-            <th>Excelente (5)</th>
-        </tr>
-        <tr>
-            <td>Claridad de definición de la Aplicación
-                (Objetivo bien definido de la aplicación,
-                identificación de usuarios y definición clara
-                del objetivo del sistema, revisión de
-                sistemas similares, elementos de
-                innovación, motivación, relevancia)</td>
-            <td></td><td></td><td></td><td></td><td></td>
-        </tr>
-        <tr>
-            <td>Plan del Proyecto <br>
-                • Plan de Investigación: Definición de
-                    la información requerida, creación
-                    de instrumentos, tipo de análisis <br>
-                • Calendario de actividades, roles y
-                    responsabilidades,
-                    productos/artefactos resultantes,
-                    responsables <br>
-                • Repositorio de Documentos</td>
-            <td></td><td></td><td></td><td></td><td></td>
-        </tr>
-        <tr>
-            <td>Perfiles, Personas, Escenarios (Basados en
-                  información recopilada, útiles para crear
-                  requerimientos y mejorar el entendimiento
-                  de usuarios, usuarios primarios,
-                  secundarios)</td>
-            <td></td><td></td><td></td><td></td><td></td>
-        </tr>
-        <tr>
-            <td>Definición de Requerimientos (Definición de
-              Requerimientos de Usuario, Distinción
-              adecuada de tipos de requerimientos,
-              Requerimientos Funcionales y No
-              Funcionales con respecto a la información
-              recopilada, representación adecuada de los
-              requerimientos no funcionales relacionados
-              a IHC)</td>
-            <td></td><td></td><td></td><td></td><td></td>
-        </tr>
-        <tr>
-            <td>Presentación del Avance <br>
-                (Material utilizado para presentar, formato
-                de la información, uso del tiempo,
-                presentación de información)</td>
-            <td></td><td></td><td></td><td></td><td></td>
-        </tr>
-        <tr>
-            <td>Uso adecuado de la Metodología de DCU
-                (Claridad en la forma de uso de la
-                metodología, forma de implementación de
-                la metodología)</td>
-            <td></td><td></td><td></td><td></td><td></td>
-        </tr>
-        <tr>
-            <td>Trabajo en Equipo (Porcentaje de Avance,
-              Roles definidos, Responsabilidades,
-              monitoreo, porcentaje individual de
-              contribución medido de forma objetiva, uso
-              de un proceso para el trabajo en equipo)</td>
-            <td></td><td></td><td></td><td></td><td></td>
-        </tr>
-        <tr>
-            <td>Respuestas a preguntas sobre el proyecto
-              (Contestan de forma clara, tienen la
-              información que corresponde, presentan
-              argumentos válidos)</td>
-            <td></td><td></td><td></td><td></td><td></td>
-        </tr>
-    </table>
-    <h2>Video de presentaci&oacute;n</h2>
-    <a href="https://youtu.be/yVQ-6kh2XPw">Click here</a>
-</body>
-</html>
+# Second Delivery
+
+## Evolución de los requisitos
+Primero empezamos modificando como funciona el sistema(Manual) del manejo de espedientes:<br>
+[Diagrama de Flujo de Datos versión 2](Artifacts/Diagrama_de_Flujo_de_Datos_V2.pdf)<br>
+
+Luego realizamos descripciones procedurares:<br>
+La primera fue en diagrama [Diagrama](Content/Descripción_Procedural_V1.pdf)<br>
+Luego decidimos cambiarlo a forma textual:<br>
+[Versión 1](Content/Descripcion_procedural_Textual_V1.pdf)<br>
+[Versión 2](Artifacts/Descripciones_Procedurales_Textuales_V2.md)<br>
+
+RF:<br>
+[Primera versión](https://github.com/CaballeroEscamilla/Human-Computer-Interaction/blob/First-Delivery/Content/06_Definicion_Requerimientos.md)<br>
+[Segunda versión](Content/RF_V2.pdf)<br>
+[Tercera versión](Content/Requerimientos_Funcionales.md)<br>
+[Ultima versión](Artifacts/RF_V4.docx)<br>
+
+RNF:<br>
+[Primera versión](https://github.com/CaballeroEscamilla/Human-Computer-Interaction/blob/First-Delivery/Content/06_Definicion_Requerimientos.md)<br>
+[Segunda versión](Content/RNF_Criterios_de_aceptacion.pdf)<br>
+
+Logramos realizar un bosquejo de pruebas en base a los RNF de usabilidad<br>
+[Bosquejo de pruebas de Usabilidad](Artifacts/Bosquejo_de_Pruebas.pdf)<br>
+
+Realizamos un primer diagrama de casos de uso en base a los requisitos funcionales<br>
+[Casos de uso](Artifacts/RF_USE_CASES_V2) <br>
+
+## Prototipado de interfaces
+El primer prototipo que se realizo fue hecho en Figma reutilizando parte del diseño hecho por Rodrigo Maliachi <br>
+[Primer prototipo](Artifacts/Prototipos_Figma.md)<br>
+El Segundo prototipo de las interfaces serealizo con base a los estandares acordados por todos los equipos en un lenguaje HTML y se encuentran en el repo en conjunto [Repo](https://github.com/CarlosEkRaigoza/ClinicaWeb)<br>
+
+## Bosquejo de pruebas de usabilidad
+[Ver Bosquejo de Pruebas](Artifacts/Bosquejo_de_Pruebas.pdf)
+
+## Trabajo en equipo
+Para la organización del equipo hicimos uso de la herramienta GitHub Proyects donde se asignaban tareas y plazos para cumplirlas
+[Ver tabla de Contribución](ActivityScores/README.md)
+
+## Video de presentación
+[Ver video](https://youtu.be/otwOvnpFPc4)
