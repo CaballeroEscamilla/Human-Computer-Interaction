@@ -4,19 +4,20 @@
 *Responsable:* Terapeuta  
 
 ### Happy Path
-   1. El usuario inicia sesión con sus credenciales válidas.
-   2. Navega al expediente del paciente correspondiente.
-   3. Selecciona la opción “Agregar reporte de sesión”.
-   4. Se presenta un formulario con campos como:
-      - Fecha de sesión  
-      - Diagnóstico o motivo  
-      - Intervenciones aplicadas  
-      - Recomendaciones  
-      - Observaciones adicionales
-   5. Llena todos los campos requeridos.
-   6. El sistema valida los datos.
-   7. Guarda el reporte asociado al expediente.
-   8. Muestra confirmación del registro exitoso.
+   1. El terapeuta accede a su lista de pacientes.
+   2. Selecciona al paciente de su lista de pacientes.
+   3. Navega al expediente del paciente.
+   4. Selecciona la opción “Reporte de sesión” en el apartado de Documentos.
+   5. Se presenta un formulario con campos como:
+      - Nombre del paciente y Terapeuta asignado
+      - Número y fecha de sesión  
+      - Asistencia o inacistencia(con o sin justificación)  
+      - Descripción de la sesión  
+      - Observaciones del terapeuta
+   6. Llena todos los campos requeridos.
+   7. El sistema valida los datos.
+   8. Guarda el reporte asociado al expediente.
+   9. Muestra confirmación del registro exitoso.
 
 ### Excepciones
    - *Campos vacíos:* El sistema impide guardar si hay campos vacios.
@@ -29,17 +30,17 @@
 *Responsable:* Administrador  
 
 ### Happy Path
-   1. El administrador accede al módulo de expedientes.
-   2. Selecciona el expediente deseado.
-   3. Visualiza el contenido del expediente
-   4. Selecciona la opción de imprimir.
+   1. El administrador accede al módulo de pacientes.
+   2. Selecciona al paciente deseado.
+   3. Visualiza el contenido del expediente del paciente seleccionado.
+   4. Selecciona el documento a imprimir del apartado de documentos
+   5. Selecciona la opción de imprimir.
    6. Confirma e imprime.
    7. El documento es enviado a la impresora.
 
 ### Excepciones
    - *Sin documentos:* Se indica que no hay documentos para imprimir.  
    - *Error de impresión: Se despliega mensaje de error.  
-   - *Permisos insuficientes: Se restringe la función.
 
 ---
 
@@ -47,13 +48,12 @@
 *Responsable:* Administrador  
 
 ### Happy Path
-   1. El administrador abre el expediente.
-   2. Visualiza el estado actual.
-   3. Selecciona “Modificar estado”.
-   4. Elige un nuevo estado:  
-      - En espera  
-      - Activo  
-      - Finalizado
+   1. El administrador accede al módulo de pacientes.
+   2. Selecciona al paciente deseado.
+   3. Visualiza el estado actual.
+   4. Selecciona una acción del apartado de acciones:  
+      - Inicializar Expediente  
+      - Finalizar Expediente  
    5. El sistema guarda el cambio.
    6. Confirma visualmente la actualización.
 
@@ -66,12 +66,14 @@
 *Responsable:* Administrador  
 
 ### Happy Path
-   1. El usuario accede al expediente.
-   2. Se muestra checklist con documentos requeridos.
-   3. Cada ítem indica:  
-      - (X) Completado  
+   1. El usuario inicia sesión con sus credenciales válidas.
+   2. Selecciona al paciente de su lista depacientes
+   3. Navega al expediente del paciente.
+   4. Se muestra una colección de documentos en el apartado de documentos.
+   5. Cada ítem indica:  
+      - (✓) Completado  
       - ( ) Pendiente
-   4. El sistema actualiza el checklist según se vayan cumpliendo.
+   6. El sistema actualiza el checklist según se vayan cumpliendo.
 
 ### Excepciones
    - *Falta de documentos: Se marcan en rojo.  
@@ -83,33 +85,18 @@
 *Responsable: Terapeuta
 
 ### Happy Path
-   1. El terapeuta accede al expediente.
-   2. Selecciona “Cargar documento”.
-   3. Abre el explorador de archivos.
-   4. Elige un archivo válido (.pdf, .jpg, .png).
-   5. Se carga y asocia al expediente.
-   6. Se registra en bitácora.
-   7. Muestra notificación de éxito.
+   1. El terapeuta accede a su lista de pacientes.
+   2. Selecciona al paciente deseado.
+   3. Visualiza el contenido del expediente del paciente seleccionado.
+   4. Selecciona el documento a cargar del apartado de documentos
+   5. Selecciona “Archivo adjundo” dentro de la pestaña del ducumento.
+   6. Selecciona “Seleccionar archivo”
+   7. Abre el explorador de archivos.
+   8. Elige un archivo válido (.pdf, .jpg, .png).
+   9. Se carga y asocia al expediente.
+   10. Se registra en bitácora.
+   11. Muestra notificación de éxito.
 
 ### Excepciones
    - *Tipo de archivo no valido Se cancela la carga en caso de ser un documento en formato no valido
    - *Archivo muy grande: Se rechaza el archivo.  
-   - *Permisos insuficientes:* Se impide el acceso.
-
----
-
-## 6. Archivar expedientes finalizados
-*Responsable:* Administrador  
-
-### Happy Path
-   1. Accede a expedientes expedientes.
-   2. Selecciona el expediente a archivar.
-   3. El sistema valida que está completo.
-   4. Lo mueve a “Archivados”.
-   5. Bloquea futuras ediciones.
-   6. Registra la acción.
-
-### Excepciones
-   - *Ya archivado: Se evita la acción duplicada.  
-   - *Documentos faltantes:* Se impide archivar.  
-   - *Error técnico:* Se muestra mensaje y opción de reintento.
