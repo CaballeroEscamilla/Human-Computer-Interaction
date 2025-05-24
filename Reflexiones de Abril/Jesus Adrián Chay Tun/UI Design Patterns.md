@@ -1,0 +1,5 @@
+### UI Design Patterns
+
+The most important part of creating and working on a user interface (UI) is knowing how the environment works. One way to do this is by using design patterns, which, without getting too complicated, help create solutions with parts that can be used again. These patterns can show up in different ways, like buttons that are easy to understand (using icons that users already know), or using a design that feels familiar, like having a search bar at the top, in the middle, or on the side of the screen. More complex things, like ways to log in or sign up on a platform, are also examples.
+
+In this project, the design pattern that works best is the search system. It can make it easier to look for activities or sessions with a patient. It could also be used in the records section, helping users find records quickly by using a simple search among all the available information. This would make the process better in many ways. Since the search bar is easy to recognize, most users would know how to use it right away. It would also make searches faster and improve how easy the system is to use.
