@@ -1,0 +1,13 @@
+# Diseña tu ciudad
+
+Durante las votaciones de diseña tu ciudad pude notar diversas situaciones que pueden significar problemas a largo plazo para el proceso de votación, ya sea por parte de la ciudadanía, o por parte del staff y apartado técnico, pero vamos desde el inicio
+
+En mi sede hubieron problemas desde el primer momento, como lo fue que las tabletas dadas, no eran las correspondientes a mi sede, lo cual se justifico bajo un cambio abrupto de sede, e incluso, problemas con el comisario, al cual le dió por llegar hasta las 9:00 am cuando estaba pactado llegar desde las 7:30 am
+
+Por otro lado, las votaciones tuvieron cambios diversos, cómo lo fue que el lugar donde nos pusieron, no era el que se había promocionado y dicho, y bajo la palabras de los propios pobladores, no era el lugar que se venía diciendo, por lo mismo era complicado para ellos saber dónde se debía votar
+
+En otras circunstancias, el proceso de registro era un ámbito muy limitado para una gran mayoría de los votantes de la localidad de San José Tzal, los cuales eran adultos de la tercera edad, los cuales no contaban con los conocimientos para hacer un registro manual, ni mucho menos con un correo para recibir el codigo QR correspondiente para votar a través de la app, lo cual se volvió una gran limitante para los votantes.
+
+Otro punto interesante, fueron los múltiples cambios en la plataforma, desde no poder ingresar la dirección de los votantes, hasta el cambio por un mapa que era mucho menos intuitivo que el inicial, y que de igual manera no reconocía las direcciones que se le ingresaban
+
+En fin y para ir concluyendo, Diseña tu ciudad es una buena iniciativa, con una muy limitada implementación; la gestión deja bastante que desear, y deja en evidencia la baja coordinación con el error de sedes, motivo por el cual me llegaron tabletas de otra sede, y por el nulo compromiso por parte del comisario de mi sede. Por otro lado, hubieron varios apartados de oportunidades para corrección a futuro, como lo sería una plataforma más amigable con el usuario, y con menos problemas con el mapa. Por el lado de los adultos mayores es algo complicado discernir si estuvo bien o mal implementado, ya que si bien para ellos es complicado el uso de tecnología para el registro, nos tenían a nosotros como apoyo, lo cual facilito el proceso de registro y votación. En fin, el proyecto presenta múltiples áreas de mejora que pueden ser abordadas a futuro, y de alguna manera sienta una base para continuar en la mejora y desarrollo del mismo
