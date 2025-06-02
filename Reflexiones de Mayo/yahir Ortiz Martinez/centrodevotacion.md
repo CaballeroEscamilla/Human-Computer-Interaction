@@ -11,13 +11,7 @@
         </header>
         <section>
             <p>
-                During a professional engagement, I had the opportunity to visit a <strong>vocational training center</strong> located in the suburban community of <strong>Chablekal</strong>, a town within the municipality of <em>Mérida</em>, Yucatán. 
-            </p>
-            <p>
-                As part of my responsibilities, I collaborated directly with officials from the <strong>Municipality of Mérida</strong>. My primary role was to <strong>assist in the organization and inspection of the Information Technology (IT) department</strong> within the center.
-            </p>
-            <p>
-                This task involved evaluating existing digital infrastructure, suggesting improvements, and helping structure workflows to ensure that the IT facilities met the operational and educational needs of both instructors and students.
+                During a support visit to municipality p, I had the opportunity to visit a center located in the community of Chablekal, a village within the municipality of Mérida, Yucatán. As part of my responsibilities, I collaborated directly with officials from the Municipality of Mérida regarding the voting process and ensuring that the system progressed smoothly.
             </p>
         </section>
         <footer>
