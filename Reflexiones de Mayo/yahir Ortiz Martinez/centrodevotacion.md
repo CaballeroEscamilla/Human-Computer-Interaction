@@ -17,6 +17,7 @@ Upon arriving at the location, I observed various challenges that hindered full 
 
 <p>I also noticed that the registration system using QR code scanning from the INE could be optimized. In many cases, recognition was slow or failed entirely, delaying the process and creating frustration for both citizens and support staff. I believe a more agile and robust system would enable faster voter location and facilitate registration, so that the QR validates all data, authenticity, and voter location.
 Finally, it's worth noting that the geolocation system occasionally malfunctioned, making it impossible to process new registrations from the tablet, affecting process continuity (This could also be handled directly with the QR code on the back of the INE).</p>
+<p>In conclusion, I believe the program holds tremendous potential for community empowerment, but it's essential to address and enhance critical aspects such as preliminary outreach efforts, digital tool accessibility, and technical system reliability. Only through these improvements can we ensure a smoother, more equitable, and meaningful voting experience for all participants.</p>
             
 </body>
 </html>
