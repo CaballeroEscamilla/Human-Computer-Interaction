@@ -7,16 +7,16 @@
 <body>
     <article>
         <header>
-            <h1>Field Visit to Vocational Center in Chablekal</h1>
+            <h1>Diseña tu ciudad</h1>
         </header>
         <section>
-            <p>
-                During a support visit to municipality p, I had the opportunity to visit a center located in the community of Chablekal, a village within the municipality of Mérida, Yucatán. As part of my responsibilities, I collaborated directly with officials from the Municipality of Mérida regarding the voting process and ensuring that the system progressed smoothly.
-            </p>
-        </section>
-        <footer>
-            <p><em>Location:</em> Chablekal, Mérida, Yucatán</p>
-        </footer>
-    </article>
+            <p> During the Diseña tu ciudad program voting day, I had the opportunity to provide technical and operational support in the Chablekal community. My primary responsibility involved configuring electronic tablets and assisting citizens throughout the voting process.
+Upon arriving at the location, I observed various challenges that hindered full community participation. First, I identified a marked indifference among some voters, stemming primarily from lack of awareness about the program's objectives and the impact their vote could have on the community. This information gap suggests an urgent need to improve outreach and awareness channels by the City Hall.</p>
+        
+<p>Another major challenge was interaction with the voting application, particularly among elderly residents. Most were unfamiliar with electronic devices like tablets, requiring nearly complete assistance to complete their participation. This situation highlights the importance of considering digital inclusion strategies.</p>
+
+<p>I also noticed that the registration system using QR code scanning from the INE could be optimized. In many cases, recognition was slow or failed entirely, delaying the process and creating frustration for both citizens and support staff. I believe a more agile and robust system would enable faster voter location and facilitate registration, so that the QR validates all data, authenticity, and voter location.
+Finally, it's worth noting that the geolocation system occasionally malfunctioned, making it impossible to process new registrations from the tablet, affecting process continuity (This could also be handled directly with the QR code on the back of the INE).</p>
+            
 </body>
 </html>
